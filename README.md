@@ -44,22 +44,22 @@
 ### 🚗 EV Charging Station Optimizer  
 Optimized EV charging station locations using Graph Neural Networks & Bayesian methods.  
 Tech: PyTorch Geometric, GIS, Flask, PostgreSQL  
-[GitHub Repo](https://github.com/EV-GNN)
+[GitHub Repo](https://github.com/EV_GNN)
 
 ---
 
 ### 📚 AI Research Paper Summarizer  
 Extracts and summarizes complex academic content using NLP and web scraping.  
 Tech: Python, Flask, NLTK, PyMuPDF  
-[GitHub Repo](https://github.com/your-repo)
+[GitHub Repo](https://github.com/AI-Powered-Research-Paper-Summarizer)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anmol-7696&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-7696&layout=compact&theme=radical)
 
 ---
 
