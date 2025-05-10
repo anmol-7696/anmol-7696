@@ -44,14 +44,12 @@
 ### 🚗 EV Charging Station Optimizer  
 Optimized EV charging station locations using Graph Neural Networks & Bayesian methods.  
 Tech: PyTorch Geometric, GIS, Flask, PostgreSQL  
-[GitHub Repo](https://github.com/EV_GNN)
 
 ---
 
 ### 📚 AI Research Paper Summarizer  
 Extracts and summarizes complex academic content using NLP and web scraping.  
 Tech: Python, Flask, NLTK, PyMuPDF  
-[GitHub Repo](https://github.com/AI-Powered-Research-Paper-Summarizer)
 
 ---
 
