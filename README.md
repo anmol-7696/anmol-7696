@@ -55,7 +55,6 @@ Tech: Python, Flask, NLTK, PyMuPDF
 
 ## 📈 GitHub Stats
 
-![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anmol-7696&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-7696&layout=compact&theme=radical)
 
