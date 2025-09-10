@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Anmolpreet Singh
 
-🎓 3rd-year Computer Science student | 🔧 Software Developer | 💡 AI & Cloud Enthusiast  
-📍 Based in Winnipeg, MB | Currently on summer break and building cool things 🚀
+🎓 Final-year Computer Science student | 🔧 Software Developer | 💡 AI & ML Enthusiast  
+📍 Based in Winnipeg, MB 
 
 ---
 
