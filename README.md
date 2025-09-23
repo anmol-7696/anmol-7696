@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anmolpreet Singh
 
-🎓 Final-year Computer Science student | 🔧 Software Developer | 💡 AI & ML Enthusiast  
+🎓 Final-year Computer Science student | 🔧 Software Developer  
 📍 Based in Winnipeg, MB 
 
 ---
