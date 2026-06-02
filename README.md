@@ -21,23 +21,17 @@ I am a **Computer Science student (Minor in Mathematics)** at the **University o
 
 ## 🚀 Highlighted Projects
 
-### 📱 [RecipeMine](https://github.com/anmol-7696/recipe-mine)
-*A native Android recipe management application built with robust testing and offline capabilities.*
-*   **Tech Stack:** Java, SQLite, JUnit, Mockito, Espresso
-*   **Key Achievement:** Designed and executed over **100+ automated unit and UI tests**, achieving **>90% code coverage** to ensure bulletproof application stability.
-*   **Features:** Efficient offline storage, lightning-fast recipe retrieval, and an intuitive user interface.
-
-### 🌐 [ConnectHub SPA Messaging Server](https://github.com/anmol-7696/connect-hub)
+### 🌐 [ConnectHub SPA Messaging Server](https://github.com/anmol-7696/SPA)
 *A multi-threaded, high-performance HTTP web server and interactive messaging application.*
 *   **Tech Stack:** Python, HTML, CSS, JavaScript
 *   **Features:** Supports concurrent client connections serving static content and REST-style API endpoints. Uses asynchronous AJAX/XMLHttpRequests to drive a fluid Single Page Application (SPA) experience without full page reloads.
 
-### 🎬 [MyFlix Movie Discovery Platform](https://github.com/anmol-7696/myflix)
+### 🎬 [MyFlix Movie Discovery Platform](https://github.com/anmol-7696/my-flix)
 *A highly responsive, real-time movie browsing dashboard.*
 *   **Tech Stack:** JavaScript, React, Tailwind CSS, REST APIs
 *   **Features:** Dynamically integrates with external entertainment APIs to fetch up-to-date movie data, ratings, and user engagement metrics. Implemented advanced client-side search and multi-criteria filtering.
 
-### 🗄️ [MSDB - Northwind Database Project](https://github.com/anmol-7696/northwind-db)
+### 🗄️ [MSDB - Northwind Database Project](https://github.com/anmol-7696/MSDB)
 *A production-style relational database deployment mimicking real-world business structures.*
 *   **Tech Stack:** Java, MS SQL
 *   **Features:** Sourced data from real-world Kaggle datasets, structuring entity-relationship diagrams for high-performance indexing and query optimization. Hosted live on the university infrastructure.
