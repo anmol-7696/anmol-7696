@@ -12,10 +12,10 @@ I am a **Computer Science student (Minor in Mathematics)** at the **University o
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Java, Python, C/C++, JavaScript, TypeScript, SQL, R, HTML/CSS |
+| **Languages** | Java, Python, C/C++, C#, JavaScript, TypeScript, SQL, R, HTML/CSS |
 | **Frameworks & Tech** | React.js, Angular, Flask, Express.js, Android SDK, PyTorch, TensorFlow |
 | **Databases** | MS SQL, MySQL, MongoDB, SQLite |
-| **Developer Tools** | Git, GitHub, GitLab, Docker, VS Code |
+| **Developer Tools** | Git, GitHub, GitLab, Docker, VS Code, .NET/ASP.NET |
 
 ---
 
