@@ -2,7 +2,7 @@
 
 I am a **Computer Science student (Minor in Mathematics)** at the **University of Manitoba**, deeply interested in building robust, scalable applications, distributed systems, and exploring deep learning architectures. 
 
-* 🎓 **Education:** B.Sc. in Computer Science @ University of Manitoba (Expected Aug 2026)
+* 🎓 **Education:** B.Sc. in Computer Science @ University of Manitoba (Jan 2023 - Aug 2026)
 * 💼 **Looking for:** Software Engineering, Full-Stack, or Machine Learning internships and entry-level roles.
 * 📍 **Location:** Winnipeg, MB, Canada
 
